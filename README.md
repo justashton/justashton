@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm Ash!
-**Architect of the digital unknown. Navigating the shadows of the web, crafting echoes in the void.**
+Architect of the digital unknown. Building high-impact websites, apps, and SaaS products from Christchurch, New Zealand.
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
@@ -10,7 +10,7 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-With a strong focus on **engineering leadership**, I thrive on building high-performing teams and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **cloud and infrastructure technologies**, where I turn complex challenges into opportunities for growth.
+I specialise in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for cloud infrastructure and customer experience, turning complex challenges into opportunities.
 
 🔭 Leading teams on transformative projects to reshape industries.
 
