@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ash!
+# 👋 Hey there, I'm Ashton!
 Architect of the digital unknown. Building high-impact websites, apps, and SaaS products from Christchurch, New Zealand.
 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
