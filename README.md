@@ -10,7 +10,7 @@ Architect of the digital unknown. Building high-impact websites, apps, and SaaS 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-I specialise in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for cloud infrastructure and customer experience, turning complex challenges into opportunities.
+I specialize in crafting scalable, impactful solutions—from quirky side projects to industry-changing platforms. My work blends engineering leadership with a passion for web architecture and developer experience, turning complex challenges into opportunities.
 
 🔭 Leading teams on transformative projects to reshape industries.
 
